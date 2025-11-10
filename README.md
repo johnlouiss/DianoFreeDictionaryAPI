@@ -1,1 +1,1 @@
-# DianoFreeDictionaryAPI
+# dic-1.0
